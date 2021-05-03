@@ -1,5 +1,5 @@
 # CoVaxinApp
-Check available hospitals
+Check available hospitals in Gautam Budhha Nagar (can be customized see below Point 6)
 
 1. In SendEmail.java change the below line. Generate this app password via: https://support.google.com/accounts/answer/185833#
 return new PasswordAuthentication("xxx@gmail.com", "xxxx");
